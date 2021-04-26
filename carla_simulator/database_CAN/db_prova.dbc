@@ -1,0 +1,65 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: Steer Pedals VehicleControl
+
+
+BO_ 3221225472 VECTOR__INDEPENDENT_SIG_MSG: 0 Vector__XXX
+ SG_ LaneInvaded : 8|1@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 1 Steer: 1 Steer
+ SG_ Degree : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 2 Pedal: 2 Pedals
+ SG_ Throttle : 8|8@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Brake : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 3 GearMsg: 1 VehicleControl
+ SG_ Gear : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Reverse : 3|1@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 4 Status: 3 VehicleControl
+ SG_ Speed : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ T_engine : 8|8@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ rpm_engine : 16|8@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 5 Control_msg: 1 VehicleControl
+ SG_ Th_state : 0|1@1+ (1,0) [0|0] "" Vector__XXX
+
+
+
+BA_DEF_  "BusType" STRING ;
+BA_DEF_DEF_  "BusType" "CAN";
+

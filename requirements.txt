@@ -1,0 +1,10 @@
+pygame
+numpy
+python-can
+cantools
+pysocket
+pyserial
+matplotlib
+pomegranate
+sphinx
+sphinx-argparse
