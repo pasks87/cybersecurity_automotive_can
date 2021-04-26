@@ -1,0 +1,1673 @@
+Timestamp: 1575288136.871319    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288136.879342        ID: 0002    S                DLC:  2    00 01                       Channel: can1
+Timestamp: 1575288136.880124        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288136.880329        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288136.880512    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288136.911199    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288136.911994        ID: 0002    S                DLC:  2    00 05                       Channel: can1
+Timestamp: 1575288136.912132        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288136.912296        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288136.912479    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288136.943923    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288136.944084        ID: 0002    S                DLC:  2    00 09                       Channel: can1
+Timestamp: 1575288136.944220        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288136.944391        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288136.944577    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288136.981738    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288136.981927        ID: 0002    S                DLC:  2    00 0d                       Channel: can1
+Timestamp: 1575288136.982162        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288136.982520        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288136.982783    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.014548    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.014716        ID: 0002    S                DLC:  2    00 10                       Channel: can1
+Timestamp: 1575288137.014899        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288137.015084    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.045479    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.045623        ID: 0002    S                DLC:  2    00 13                       Channel: can1
+Timestamp: 1575288137.045760        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.045961    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.087104    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.087258        ID: 0002    S                DLC:  2    00 15                       Channel: can1
+Timestamp: 1575288137.087462        ID: 0004    S                DLC:  3    03 99 00                    Channel: can1
+Timestamp: 1575288137.087643    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.118114    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.118256        ID: 0002    S                DLC:  2    00 17                       Channel: can1
+Timestamp: 1575288137.118392        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.118674        ID: 0004    S                DLC:  3    06 99 00                    Channel: can1
+Timestamp: 1575288137.118858    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.171386    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.171559        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.171741        ID: 0004    S                DLC:  3    08 99 00                    Channel: can1
+Timestamp: 1575288137.171924    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.203339    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.203483        ID: 0002    S                DLC:  2    00 1b                       Channel: can1
+Timestamp: 1575288137.203618        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.203784        ID: 0004    S                DLC:  3    09 99 00                    Channel: can1
+Timestamp: 1575288137.203987    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.225228    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.225370        ID: 0002    S                DLC:  2    00 1b                       Channel: can1
+Timestamp: 1575288137.225575        ID: 0004    S                DLC:  3    09 99 02                    Channel: can1
+Timestamp: 1575288137.225758    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.258224    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.258359        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.258596        ID: 0004    S                DLC:  3    0a 99 06                    Channel: can1
+Timestamp: 1575288137.270242    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.301111    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.301950        ID: 0002    S                DLC:  2    00 1d                       Channel: can1
+Timestamp: 1575288137.302084        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.302253        ID: 0004    S                DLC:  3    0b 99 0a                    Channel: can1
+Timestamp: 1575288137.302429    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.329550    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.330189        ID: 0002    S                DLC:  2    00 1e                       Channel: can1
+Timestamp: 1575288137.330333        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.330507        ID: 0004    S                DLC:  3    0b 99 0b                    Channel: can1
+Timestamp: 1575288137.330690    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.362455    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.362615        ID: 0002    S                DLC:  2    00 1f                       Channel: can1
+Timestamp: 1575288137.362751        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.362938        ID: 0004    S                DLC:  3    0c 99 0e                    Channel: can1
+Timestamp: 1575288137.363123    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.397350    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.398629        ID: 0002    S                DLC:  2    00 22                       Channel: can1
+Timestamp: 1575288137.398762        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.399783        ID: 0004    S                DLC:  3    0c 99 0f                    Channel: can1
+Timestamp: 1575288137.400335    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.434557    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.434711        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.434900        ID: 0004    S                DLC:  3    0d 99 11                    Channel: can1
+Timestamp: 1575288137.435083    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.467566    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.467740        ID: 0002    S                DLC:  2    00 29                       Channel: can1
+Timestamp: 1575288137.467939        ID: 0004    S                DLC:  3    02 55 55                    Channel: can1
+Timestamp: 1575288137.468129    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.501073    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.501243        ID: 0002    S                DLC:  2    00 2a                       Channel: can1
+Timestamp: 1575288137.501383        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.501604        ID: 0004    S                DLC:  3    0d 99 14                    Channel: can1
+Timestamp: 1575288137.501788    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.526171    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.526324        ID: 0002    S                DLC:  2    00 2a                       Channel: can1
+Timestamp: 1575288137.526481        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.526684        ID: 0004    S                DLC:  3    0d 99 15                    Channel: can1
+Timestamp: 1575288137.526867    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.561264    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.561427        ID: 0002    S                DLC:  2    00 2a                       Channel: can1
+Timestamp: 1575288137.561561        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.561725        ID: 0004    S                DLC:  3    0d 99 16                    Channel: can1
+Timestamp: 1575288137.561912    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.592321    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.592464        ID: 0002    S                DLC:  2    00 2a                       Channel: can1
+Timestamp: 1575288137.592670        ID: 0004    S                DLC:  3    0e 99 55                    Channel: can1
+Timestamp: 1575288137.592854    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.623048    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.623199        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.623376        ID: 0004    S                DLC:  3    0e 99 19                    Channel: can1
+Timestamp: 1575288137.623562    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.653855    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.654000        ID: 0002    S                DLC:  2    00 2b                       Channel: can1
+Timestamp: 1575288137.654138        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.654343    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.687625    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.687771        ID: 0002    S                DLC:  2    00 2b                       Channel: can1
+Timestamp: 1575288137.687958        ID: 0004    S                DLC:  3    0f 99 1d                    Channel: can1
+Timestamp: 1575288137.688146    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.731003    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.731162        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.731333        ID: 0004    S                DLC:  3    0f 99 1f                    Channel: can1
+Timestamp: 1575288137.731513    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.763587    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.763760        ID: 0002    S                DLC:  2    00 2c                       Channel: can1
+Timestamp: 1575288137.763963        ID: 0004    S                DLC:  3    10 99 55                    Channel: can1
+Timestamp: 1575288137.764149    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.797510    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.797661        ID: 0002    S                DLC:  2    00 2c                       Channel: can1
+Timestamp: 1575288137.797805        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.798025    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.829450    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.830409        ID: 0002    S                DLC:  2    00 2d                       Channel: can1
+Timestamp: 1575288137.830559        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.830765        ID: 0004    S                DLC:  3    11 99 25                    Channel: can1
+Timestamp: 1575288137.830948    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.853331    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.853486        ID: 0002    S                DLC:  2    00 2e                       Channel: can1
+Timestamp: 1575288137.853623        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.853834    ID: 19000005    X                DLC:  1    26                          Channel: can1
+Timestamp: 1575288137.854020    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.886464    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.886620        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.886799        ID: 0004    S                DLC:  3    11 99 28                    Channel: can1
+Timestamp: 1575288137.886983    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.919391    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.919535        ID: 0002    S                DLC:  2    00 2f                       Channel: can1
+Timestamp: 1575288137.919743        ID: 0004    S                DLC:  3    12 99 2b                    Channel: can1
+Timestamp: 1575288137.919941    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288137.985142    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288137.985299        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288137.985504    ID: 19130005    X                DLC:  1    2f                          Channel: can1
+Timestamp: 1575288137.985685    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.025848    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.025976        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.026160        ID: 0004    S                DLC:  3    13 99 31                    Channel: can1
+Timestamp: 1575288138.026341    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.053780    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.053927        ID: 0002    S                DLC:  2    00 2f                       Channel: can1
+Timestamp: 1575288138.054077        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.054267    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.086688    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.086842        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.087060        ID: 0004    S                DLC:  3    14 99 35                    Channel: can1
+Timestamp: 1575288138.087269    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.119587    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.119734        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.119902        ID: 0004    S                DLC:  3    14 99 37                    Channel: can1
+Timestamp: 1575288138.120085    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.173388    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.174156        ID: 0002    S                DLC:  2    00 2f                       Channel: can1
+Timestamp: 1575288138.174290        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.174500    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.204362    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.205067        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.205197        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.205416    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.227329    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.227460        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.227632        ID: 0004    S                DLC:  3    16 99 3e                    Channel: can1
+Timestamp: 1575288138.237297    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.268197    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.269044        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.269176        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.269350        ID: 0004    S                DLC:  3    16 99 40                    Channel: can1
+Timestamp: 1575288138.269535    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.300382    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.301151        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.301285        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.301502    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.330524    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.331496        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.331635        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.331797        ID: 0004    S                DLC:  3    17 99 44                    Channel: can1
+Timestamp: 1575288138.331981    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.363848    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.363995        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.364803        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.364979        ID: 0004    S                DLC:  3    18 99 47                    Channel: can1
+Timestamp: 1575288138.365163    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.402861    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.402985        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.403190    ID: 19180005    X                DLC:  1    49                          'I'    Channel: can1
+Timestamp: 1575288138.403373    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.435774    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.435937        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.436137    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.468893    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.469041        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.469177        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.469414        ID: 0004    S                DLC:  3    19 99 4d                    Channel: can1
+Timestamp: 1575288138.469599    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.501860    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.502829        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.502966        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.503133        ID: 0004    S                DLC:  3    1a 99 4f                    Channel: can1
+Timestamp: 1575288138.503317    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.530197    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.531091        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.531215        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.531381        ID: 0004    S                DLC:  3    1a 99 51                    Channel: can1
+Timestamp: 1575288138.531567    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.556017    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.556557        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.556707        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.556884        ID: 0004    S                DLC:  3    1a 99 53                    Channel: can1
+Timestamp: 1575288138.557067    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.589912    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.590056        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.600045        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.601337        ID: 0004    S                DLC:  3    1a 99 54                    Channel: can1
+Timestamp: 1575288138.601517    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.634962    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.635663        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.635840        ID: 0004    S                DLC:  3    1b 99 58                    Channel: can1
+Timestamp: 1575288138.636033    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.655783    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.655903        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.656067        ID: 0004    S                DLC:  3    1b 99 59                    Channel: can1
+Timestamp: 1575288138.656248    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.706775    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.707454        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.707613        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.707793        ID: 0004    S                DLC:  3    1c 99 5b                    Channel: can1
+Timestamp: 1575288138.707977    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.727542    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.727708        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.727934    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.728110    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.762615    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.762782        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.762952        ID: 0004    S                DLC:  3    1d 99 5f                    Channel: can1
+Timestamp: 1575288138.763136    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.795385    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.795513        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.795679        ID: 0004    S                DLC:  3    1d 99 60                    Channel: can1
+Timestamp: 1575288138.795862    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.833702    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.833854        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288138.833990        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.834155        ID: 0004    S                DLC:  3    1d 99 62                    Channel: can1
+Timestamp: 1575288138.834341    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.872199    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.872345        ID: 0002    S                DLC:  2    00 31                       Channel: can1
+Timestamp: 1575288138.872477        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.872642        ID: 0004    S                DLC:  3    1e 99 65                    Channel: can1
+Timestamp: 1575288138.872827    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.905051    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.905190        ID: 0002    S                DLC:  2    00 31                       Channel: can1
+Timestamp: 1575288138.905387        ID: 0004    S                DLC:  3    1e 99 67                    Channel: can1
+Timestamp: 1575288138.905569    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.943167    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.943312        ID: 0002    S                DLC:  2    00 32                       Channel: can1
+Timestamp: 1575288138.943447        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.943613        ID: 0004    S                DLC:  3    1f 99 69                    Channel: can1
+Timestamp: 1575288138.943800    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.969844    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.969984        ID: 0002    S                DLC:  2    00 32                       Channel: can1
+Timestamp: 1575288138.970126        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.970296        ID: 0004    S                DLC:  3    1f 99 6a                    Channel: can1
+Timestamp: 1575288138.970482    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288138.996838    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288138.996983        ID: 0002    S                DLC:  2    00 32                       Channel: can1
+Timestamp: 1575288138.997120        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288138.997287        ID: 0004    S                DLC:  3    1f 99 6b                    Channel: can1
+Timestamp: 1575288138.997474    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.030011    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.030154        ID: 0002    S                DLC:  2    00 33                       Channel: can1
+Timestamp: 1575288139.030291        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.030496        ID: 0004    S                DLC:  3    20 99 6e                    Channel: can1
+Timestamp: 1575288139.030682    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.062645    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.062794        ID: 0002    S                DLC:  2    00 33                       Channel: can1
+Timestamp: 1575288139.062931        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.063103        ID: 0004    S                DLC:  3    20 99 70                    Channel: can1
+Timestamp: 1575288139.063290    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.113581    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.113764        ID: 0002    S                DLC:  2    00 33                       Channel: can1
+Timestamp: 1575288139.113901        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.114119        ID: 0004    S                DLC:  3    21 99 72                    Channel: can1
+Timestamp: 1575288139.114306    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.135477    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.135597        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.135812    ID: 19000005    X                DLC:  1    73                          's'    Channel: can1
+Timestamp: 1575288139.135994    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.171333    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.171477        ID: 0002    S                DLC:  2    00 34                       Channel: can1
+Timestamp: 1575288139.171675        ID: 0004    S                DLC:  3    21 99 75                    Channel: can1
+Timestamp: 1575288139.171858    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.201321    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.201466        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288139.201602        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.201767        ID: 0004    S                DLC:  3    21 99 76                    Channel: can1
+Timestamp: 1575288139.201953    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.233215    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.233384        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288139.233520        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.233685        ID: 0004    S                DLC:  3    22 99 79                    Channel: can1
+Timestamp: 1575288139.233871    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.277136    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.289746        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288139.290528        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.290690        ID: 0004    S                DLC:  3    22 99 7b                    Channel: can1
+Timestamp: 1575288139.290874    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.310523    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.310671        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288139.310807        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.319451        ID: 0004    S                DLC:  3    23 99 7c                    Channel: can1
+Timestamp: 1575288139.320372    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.343375    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.343529        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.343688        ID: 0004    S                DLC:  3    23 99 7e                    Channel: can1
+Timestamp: 1575288139.343870    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.387413    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.387565        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288139.387702        ID: 0003    S                DLC:  1    02                          Channel: can1
+Timestamp: 1575288139.387870        ID: 0004    S                DLC:  3    24 99 81                    Channel: can1
+Timestamp: 1575288139.388054    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.425309    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.426257        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288139.426417        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.426651        ID: 0004    S                DLC:  3    24 99 81                    Channel: can1
+Timestamp: 1575288139.426835    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.554001    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.554717        ID: 0002    S                DLC:  2    00 36                       Channel: can1
+Timestamp: 1575288139.554851        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.555077    ID: 00000005    X                DLC:  1    81                          Channel: can1
+Timestamp: 1575288139.555258    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.622286    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.622421        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.622587        ID: 0004    S                DLC:  3    24 99 81                    Channel: can1
+Timestamp: 1575288139.622771    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.660313    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.660454        ID: 0002    S                DLC:  2    00 36                       Channel: can1
+Timestamp: 1575288139.660587        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.660755        ID: 0004    S                DLC:  3    24 99 81                    Channel: can1
+Timestamp: 1575288139.660939    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.682436    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.690977        ID: 0002    S                DLC:  2    00 37                       Channel: can1
+Timestamp: 1575288139.691551        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.691741        ID: 0004    S                DLC:  3    24 99 81                    Channel: can1
+Timestamp: 1575288139.691927    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.722145    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.722906        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288139.723044        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.723243    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.831062    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.831212        ID: 0002    S                DLC:  2    00 39                       Channel: can1
+Timestamp: 1575288139.831366        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.831553    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.894497    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.895302        ID: 0002    S                DLC:  2    00 3a                       Channel: can1
+Timestamp: 1575288139.895447        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288139.895615        ID: 0004    S                DLC:  3    23 99 81                    Channel: can1
+Timestamp: 1575288139.895803    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.925878    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.926020        ID: 0002    S                DLC:  2    00 3b                       Channel: can1
+Timestamp: 1575288139.926218        ID: 0004    S                DLC:  3    24 99 31                    Channel: can1
+Timestamp: 1575288139.926403    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.951113    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.951239        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288139.951412        ID: 0004    S                DLC:  3    25 99 33                    Channel: can1
+Timestamp: 1575288139.951594    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288139.992190    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288139.992991        ID: 0002    S                DLC:  2    00 41                       Channel: can1
+Timestamp: 1575288139.993120        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288139.993337    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.027903    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.028055        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.028275    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.028457    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.060948    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.061085        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.061243        ID: 0004    S                DLC:  3    28 99 3c                    Channel: can1
+Timestamp: 1575288140.061427    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.093495    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.093645        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288140.093840        ID: 0004    S                DLC:  3    29 99 3e                    Channel: can1
+Timestamp: 1575288140.094024    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.115952    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.116097        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288140.129161        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.129987        ID: 0004    S                DLC:  3    2a 99 40                    Channel: can1
+Timestamp: 1575288140.130168    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.155986    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.156150        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288140.156327        ID: 0004    S                DLC:  3    2b 99 43                    Channel: can1
+Timestamp: 1575288140.156511    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.184666    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.184826        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.195419        ID: 0004    S                DLC:  3    2c 99 46                    Channel: can1
+Timestamp: 1575288140.196187    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.227215    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.227392        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.227558        ID: 0004    S                DLC:  3    2e 99 4a                    Channel: can1
+Timestamp: 1575288140.227742    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.262033    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.262191        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.262413    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.262594    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.298192    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.298357        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288140.298492        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.298686        ID: 0004    S                DLC:  3    2f 99 4f                    Channel: can1
+Timestamp: 1575288140.298870    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.326432    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.326594        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288140.326758        ID: 0004    S                DLC:  3    30 99 51                    Channel: can1
+Timestamp: 1575288140.326942    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.358216    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.358391        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.358569        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.358904        ID: 0004    S                DLC:  3    31 99 52                    Channel: can1
+Timestamp: 1575288140.359088    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.393169    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.393315        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.393491        ID: 0004    S                DLC:  3    32 99 55                    Channel: can1
+Timestamp: 1575288140.393674    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.421563    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.421728        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.421927        ID: 0004    S                DLC:  3    33 99 57                    Channel: can1
+Timestamp: 1575288140.422111    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.456936    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.457175        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.457367        ID: 0004    S                DLC:  3    34 99 59                    Channel: can1
+Timestamp: 1575288140.457553    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.497706    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.497864        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.498001        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.498234        ID: 0004    S                DLC:  3    35 99 5c                    Channel: can1
+Timestamp: 1575288140.498471    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.526310    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.526440        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.526647    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.561580    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.562415        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.562547        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.562713        ID: 0004    S                DLC:  3    37 99 62                    Channel: can1
+Timestamp: 1575288140.562898    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.628203    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.629286        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.629417        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.629586        ID: 0004    S                DLC:  3    38 99 66                    Channel: can1
+Timestamp: 1575288140.629768    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.653064    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.653190        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.653405    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.686786    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.686939        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.687123        ID: 0004    S                DLC:  3    3a 99 6a                    Channel: can1
+Timestamp: 1575288140.687306    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.734852    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.734993        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.735199    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.767573    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.768194        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.768331        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.768501        ID: 0004    S                DLC:  3    3c 99 6f                    Channel: can1
+Timestamp: 1575288140.768681    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.795229    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.795376        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.795579        ID: 0004    S                DLC:  3    3d 99 72                    Channel: can1
+Timestamp: 1575288140.795760    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.826289    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.826413        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.826613    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.862764    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.862919        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.863106        ID: 0004    S                DLC:  3    3e 99 76                    Channel: can1
+Timestamp: 1575288140.863289    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.895143    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.895269        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.895436        ID: 0004    S                DLC:  3    3f 99 78                    Channel: can1
+Timestamp: 1575288140.895625    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.926388    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.926526        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.926694        ID: 0004    S                DLC:  3    40 99 7a                    Channel: can1
+Timestamp: 1575288140.926876    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.971455    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.972167        ID: 0002    S                DLC:  2    00 44                       Channel: can1
+Timestamp: 1575288140.972295        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.972486        ID: 0004    S                DLC:  3    41 99 7d                    Channel: can1
+Timestamp: 1575288140.972676    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288140.999227    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288140.999380        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288140.999550        ID: 0004    S                DLC:  3    42 99 7f                    Channel: can1
+Timestamp: 1575288140.999748    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.029254    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.029432        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.029577        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.029756        ID: 0004    S                DLC:  3    43 99 81                    Channel: can1
+Timestamp: 1575288141.029941    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.061034    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.061186        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.061392        ID: 0004    S                DLC:  3    44 99 83                    Channel: can1
+Timestamp: 1575288141.061574    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.093834    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.094848        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.094982        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.095144        ID: 0004    S                DLC:  3    44 99 85                    Channel: can1
+Timestamp: 1575288141.095328    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.124820    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.124983        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.125149        ID: 0004    S                DLC:  3    45 99 87                    Channel: can1
+Timestamp: 1575288141.125332    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.168747    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.168918        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.169052        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.169260    ID: 19460005    X                DLC:  1    89                          Channel: can1
+Timestamp: 1575288141.169444    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.202452    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.202607        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.202743        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.202908        ID: 0004    S                DLC:  3    47 99 8b                    Channel: can1
+Timestamp: 1575288141.203093    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.225261    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.225423        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.225633    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.264104    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.264999        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.265153        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.265326        ID: 0004    S                DLC:  3    48 99 8f                    Channel: can1
+Timestamp: 1575288141.265508    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.295920    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.296061        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.296229        ID: 0004    S                DLC:  3    49 99 92                    Channel: can1
+Timestamp: 1575288141.296420    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.323181    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.323331        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.323502        ID: 0004    S                DLC:  3    4a 99 93                    Channel: can1
+Timestamp: 1575288141.323684    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.364693    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.364885        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.365018        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.365219        ID: 0004    S                DLC:  3    4b 99 95                    Channel: can1
+Timestamp: 1575288141.365404    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.389085    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.396921        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.397838        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.398097        ID: 0004    S                DLC:  3    4b 99 96                    Channel: can1
+Timestamp: 1575288141.398405    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.421833    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.421954        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288141.422148    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.468762    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.468934        ID: 0002    S                DLC:  2    00 43                       Channel: can1
+Timestamp: 1575288141.469133        ID: 0004    S                DLC:  3    4c 99 99                    Channel: can1
+Timestamp: 1575288141.469318    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.663978    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.664181        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288141.664328        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288141.664518        ID: 0004    S                DLC:  3    4c 99 99                    Channel: can1
+Timestamp: 1575288141.664756    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288141.967084    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288141.967901        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288141.968097        ID: 0004    S                DLC:  3    04 55 55                    Channel: can1
+Timestamp: 1575288141.968277    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.000306    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.000554        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.000696        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.000920        ID: 0004    S                DLC:  3    4d 99 4d                    Channel: can1
+Timestamp: 1575288142.001103    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.034312    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.034483        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.034619        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.034788        ID: 0004    S                DLC:  3    4e 99 4f                    Channel: can1
+Timestamp: 1575288142.034974    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.075574    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.075696        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.075927    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.106452    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.106604        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.106738        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.106944    ID: 19500005    X                DLC:  1    52                          'R'    Channel: can1
+Timestamp: 1575288142.107130    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.149067    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.149815        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.149978        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.150143        ID: 0004    S                DLC:  3    51 99 53                    Channel: can1
+Timestamp: 1575288142.150328    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.181305    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.181447        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.181662    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.181843    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.213235    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.213351        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.213575    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.213755    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.246217    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.246371        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.246536        ID: 0004    S                DLC:  3    53 99 57                    Channel: can1
+Timestamp: 1575288142.246718    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.279241    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.279389        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.279533        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.279691        ID: 0004    S                DLC:  3    54 99 59                    Channel: can1
+Timestamp: 1575288142.279876    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.319906    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.320056        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.320224        ID: 0004    S                DLC:  3    55 99 5a                    Channel: can1
+Timestamp: 1575288142.320405    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.355960    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.356115        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.356280        ID: 0004    S                DLC:  3    56 99 5c                    Channel: can1
+Timestamp: 1575288142.356463    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.386752    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.386905        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.387078        ID: 0004    S                DLC:  3    57 99 5d                    Channel: can1
+Timestamp: 1575288142.387260    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.419624    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.419782        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.419946        ID: 0004    S                DLC:  3    57 99 5e                    Channel: can1
+Timestamp: 1575288142.420129    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.452544    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.452687        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.452898    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.497634    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.497787        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.497955        ID: 0004    S                DLC:  3    59 99 60                    Channel: can1
+Timestamp: 1575288142.498138    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.530749    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.530905        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.531126        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.531323        ID: 0004    S                DLC:  3    59 99 61                    Channel: can1
+Timestamp: 1575288142.531557    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.563285    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.563431        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.563639    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.594135    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.594283        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.594500    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.639270    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.639415        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.639617        ID: 0004    S                DLC:  3    5c 99 66                    Channel: can1
+Timestamp: 1575288142.639800    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.671880    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.672031        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.672167        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.672334        ID: 0004    S                DLC:  3    5d 99 67                    Channel: can1
+Timestamp: 1575288142.672520    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.703863    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.704006        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.704141        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.704345    ID: 195e0005    X                DLC:  1    68                          'h'    Channel: can1
+Timestamp: 1575288142.704530    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.733323    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.733998        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.734132        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.734345    ID: 19000005    X                DLC:  1    69                          'i'    Channel: can1
+Timestamp: 1575288142.734528    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.758741    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.758888        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.759025        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.759210        ID: 0004    S                DLC:  3    5f 99 6a                    Channel: can1
+Timestamp: 1575288142.759395    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.792485    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.792631        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.792837        ID: 0004    S                DLC:  3    5f 99 6b                    Channel: can1
+Timestamp: 1575288142.793020    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.824479    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.824602        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.824824    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.825003    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.891311    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.891460        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.891596        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.891808    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.931985    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.932315        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.932617        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.932965        ID: 0004    S                DLC:  3    63 99 70                    Channel: can1
+Timestamp: 1575288142.933347    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.967823    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.967966        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288142.968171        ID: 0004    S                DLC:  3    63 99 71                    Channel: can1
+Timestamp: 1575288142.968354    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288142.996691    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288142.996841        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288142.997061    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.030168    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.030311        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.030461        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.030639        ID: 0004    S                DLC:  3    64 99 73                    Channel: can1
+Timestamp: 1575288143.030824    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.063028    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.063171        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.063369        ID: 0004    S                DLC:  3    65 55 55                    'eUU'    Channel: can1
+Timestamp: 1575288143.063553    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.111154    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.111310        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.111445        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.111611        ID: 0004    S                DLC:  3    66 99 75                    Channel: can1
+Timestamp: 1575288143.111795    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.132119    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.132294        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.132432        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.132598        ID: 0004    S                DLC:  3    66 99 76                    Channel: can1
+Timestamp: 1575288143.132785    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.164488    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.164696        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.164858        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.165093        ID: 0004    S                DLC:  3    67 99 77                    Channel: can1
+Timestamp: 1575288143.165416    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.197241    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.197385        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.197521        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.197711        ID: 0004    S                DLC:  3    68 99 78                    Channel: can1
+Timestamp: 1575288143.197896    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.230150    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.230303        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.230439        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.230605        ID: 0004    S                DLC:  3    68 99 79                    Channel: can1
+Timestamp: 1575288143.230791    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.263037    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.263197        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.263398        ID: 0004    S                DLC:  3    69 99 7b                    Channel: can1
+Timestamp: 1575288143.263582    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.297476    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.297620        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.297758        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.297925        ID: 0004    S                DLC:  3    6a 99 7c                    Channel: can1
+Timestamp: 1575288143.298113    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.371756    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.371913        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.372116        ID: 0004    S                DLC:  3    6b 99 55                    Channel: can1
+Timestamp: 1575288143.372298    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.405876    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.406018        ID: 0002    S                DLC:  2    00 42                       Channel: can1
+Timestamp: 1575288143.406155        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.406322        ID: 0004    S                DLC:  3    6c 99 7f                    Channel: can1
+Timestamp: 1575288143.406508    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.436884    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.437607        ID: 0002    S                DLC:  2    00 41                       Channel: can1
+Timestamp: 1575288143.437740        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.437925        ID: 0004    S                DLC:  3    6c 99 80                    Channel: can1
+Timestamp: 1575288143.438109    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.466921    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.467869        ID: 0002    S                DLC:  2    00 41                       Channel: can1
+Timestamp: 1575288143.468000        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288143.468221    ID: 00000005    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.468404    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.494380    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.494528        ID: 0002    S                DLC:  2    00 41                       Channel: can1
+Timestamp: 1575288143.504248        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288143.504438        ID: 0004    S                DLC:  3    6d 99 80                    Channel: can1
+Timestamp: 1575288143.504624    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.599831    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.599990        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288143.600131        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288143.600312        ID: 0004    S                DLC:  3    6d 99 80                    Channel: can1
+Timestamp: 1575288143.600496    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.637034    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.637188        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288143.637378        ID: 0004    S                DLC:  3    6c 99 80                    Channel: can1
+Timestamp: 1575288143.637561    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288143.969351    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288143.969509        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288143.969672        ID: 0004    S                DLC:  3    6c 99 4e                    Channel: can1
+Timestamp: 1575288143.969853    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.024000    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.024134        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.024302        ID: 0004    S                DLC:  3    6d 99 4f                    Channel: can1
+Timestamp: 1575288144.024484    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.056907    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.057039        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.057249    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.089860    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.089997        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.090165        ID: 0004    S                DLC:  3    6f 99 51                    Channel: can1
+Timestamp: 1575288144.090347    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.122739    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.122908        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.123117    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.155814    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.155961        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.156128        ID: 0004    S                DLC:  3    71 99 53                    Channel: can1
+Timestamp: 1575288144.156310    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.206578    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.207430        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288144.207561        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.207731        ID: 0004    S                DLC:  3    71 99 54                    Channel: can1
+Timestamp: 1575288144.207914    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.233437    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.233591        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.233758        ID: 0004    S                DLC:  3    72 99 55                    Channel: can1
+Timestamp: 1575288144.233941    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.264134    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.265709        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288144.266183        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.266562        ID: 0004    S                DLC:  3    73 99 55                    Channel: can1
+Timestamp: 1575288144.266742    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.294893    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.295619        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288144.295807        ID: 0004    S                DLC:  3    73 99 56                    Channel: can1
+Timestamp: 1575288144.295987    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.325436    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.325582        ID: 0002    S                DLC:  2    00 3f                       Channel: can1
+Timestamp: 1575288144.325719        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.338807        ID: 0004    S                DLC:  3    74 99 57                    Channel: can1
+Timestamp: 1575288144.339062    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.375633    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.375781        ID: 0002    S                DLC:  2    00 3f                       Channel: can1
+Timestamp: 1575288144.375975        ID: 0004    S                DLC:  3    75 99 58                    Channel: can1
+Timestamp: 1575288144.376158    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.406724    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.407537        ID: 0002    S                DLC:  2    00 3f                       Channel: can1
+Timestamp: 1575288144.407738        ID: 0004    S                DLC:  3    75 99 59                    Channel: can1
+Timestamp: 1575288144.407922    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.436932    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.437582        ID: 0002    S                DLC:  2    00 3f                       Channel: can1
+Timestamp: 1575288144.437713        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.437898        ID: 0004    S                DLC:  3    76 99 59                    Channel: can1
+Timestamp: 1575288144.438067    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.469157    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.469320        ID: 0002    S                DLC:  2    00 3f                       Channel: can1
+Timestamp: 1575288144.469457        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.469625        ID: 0004    S                DLC:  3    77 99 5a                    Channel: can1
+Timestamp: 1575288144.469810    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.506734    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.507747        ID: 0002    S                DLC:  2    00 3e                       Channel: can1
+Timestamp: 1575288144.507878        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.508093    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.528947    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.529082        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.529261        ID: 0004    S                DLC:  3    78 99 5b                    Channel: can1
+Timestamp: 1575288144.529443    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.562613    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.562771        ID: 0002    S                DLC:  2    00 3e                       Channel: can1
+Timestamp: 1575288144.562904        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.563100    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.614862    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.615687        ID: 0002    S                DLC:  2    00 3e                       Channel: can1
+Timestamp: 1575288144.615818        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.615987        ID: 0004    S                DLC:  3    79 99 5d                    Channel: can1
+Timestamp: 1575288144.616174    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.637421    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.637592        ID: 0002    S                DLC:  2    00 3e                       Channel: can1
+Timestamp: 1575288144.637713        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.637930    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.638118    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.679441    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.680169        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288144.680298        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.680490        ID: 0004    S                DLC:  3    7a 99 5e                    Channel: can1
+Timestamp: 1575288144.680673    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.711620    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.712561        ID: 0002    S                DLC:  2    00 40                       Channel: can1
+Timestamp: 1575288144.712694        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.712878        ID: 0004    S                DLC:  3    7b 99 5f                    Channel: can1
+Timestamp: 1575288144.713061    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.747202    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.747349        ID: 0002    S                DLC:  2    00 3e                       Channel: can1
+Timestamp: 1575288144.747547        ID: 0004    S                DLC:  3    7b 99 5f                    Channel: can1
+Timestamp: 1575288144.747730    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.779994    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.780137        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.780350    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.812947    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.813068        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.813253        ID: 0004    S                DLC:  3    7c 99 61                    Channel: can1
+Timestamp: 1575288144.813434    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.835063    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.845230        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288144.845355        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.845545        ID: 0004    S                DLC:  3    7d 99 61                    Channel: can1
+Timestamp: 1575288144.845724    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.867790    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.867938        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288144.868076        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.868254        ID: 0004    S                DLC:  3    7d 99 62                    Channel: can1
+Timestamp: 1575288144.868440    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.900730    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.900884        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.901052        ID: 0004    S                DLC:  3    7e 99 62                    Channel: can1
+Timestamp: 1575288144.901233    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.933610    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.933763        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.933977    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288144.966529    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288144.966682        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288144.966852        ID: 0004    S                DLC:  3    7f 99 63                    Channel: can1
+Timestamp: 1575288144.967032    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.000503    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.000665        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.000881    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.046727    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.046864        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.047032        ID: 0004    S                DLC:  3    80 99 65                    Channel: can1
+Timestamp: 1575288145.047217    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.078449    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.078599        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.078746        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.078929        ID: 0004    S                DLC:  3    81 99 65                    Channel: can1
+Timestamp: 1575288145.079115    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.107527    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.108332        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.108487        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.108706        ID: 0004    S                DLC:  3    81 99 66                    Channel: can1
+Timestamp: 1575288145.108949    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.166046    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.166199        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.166333        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.166537    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.248120    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.248267        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.248404        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.248574        ID: 0004    S                DLC:  3    83 99 68                    Channel: can1
+Timestamp: 1575288145.248760    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.284380    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.285152        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.285349        ID: 0004    S                DLC:  3    84 99 69                    Channel: can1
+Timestamp: 1575288145.285535    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.346084    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.346210        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.346431    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.346612    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.412590    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.412730        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.412866        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.413086    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.450534    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.450687        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.450836        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288145.451017        ID: 0004    S                DLC:  3    86 99 6c                    Channel: can1
+Timestamp: 1575288145.451202    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.483302    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.483447        ID: 0002    S                DLC:  2    00 3d                       Channel: can1
+Timestamp: 1575288145.483629        ID: 0004    S                DLC:  3    86 99 6c                    Channel: can1
+Timestamp: 1575288145.483811    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.641953    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.642113        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288145.642280        ID: 0004    S                DLC:  3    86 99 6c                    Channel: can1
+Timestamp: 1575288145.642463    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.677340    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.678023        ID: 0002    S                DLC:  2    00 3b                       Channel: can1
+Timestamp: 1575288145.678158        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288145.678325        ID: 0004    S                DLC:  3    86 99 6c                    Channel: can1
+Timestamp: 1575288145.678508    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.706630    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.706800        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288145.706964        ID: 0004    S                DLC:  3    85 99 6c                    Channel: can1
+Timestamp: 1575288145.707146    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.781226    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.781371        ID: 0002    S                DLC:  2    00 3a                       Channel: can1
+Timestamp: 1575288145.781563        ID: 0004    S                DLC:  3    85 99 6c                    Channel: can1
+Timestamp: 1575288145.781746    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288145.969469    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288145.969626        ID: 0002    S                DLC:  2    00 3a                       Channel: can1
+Timestamp: 1575288145.969818        ID: 0004    S                DLC:  3    84 99 6c                    Channel: can1
+Timestamp: 1575288145.969999    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.022029    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.022732        ID: 0002    S                DLC:  2    00 39                       Channel: can1
+Timestamp: 1575288146.022868        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.023045        ID: 0004    S                DLC:  3    85 99 4c                    Channel: can1
+Timestamp: 1575288146.023230    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.044107    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.044251        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288146.053724        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.053895        ID: 0004    S                DLC:  3    85 99 4c                    Channel: can1
+Timestamp: 1575288146.054078    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.076819    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.076988        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.077157        ID: 0004    S                DLC:  3    85 99 4c                    Channel: can1
+Timestamp: 1575288146.077341    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.117315    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.117497        ID: 0002    S                DLC:  2    00 37                       Channel: can1
+Timestamp: 1575288146.117633        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.117845    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.153772    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.153922        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288146.154094        ID: 0004    S                DLC:  3    86 99 4d                    Channel: can1
+Timestamp: 1575288146.154277    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.186527    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.186665        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.186836        ID: 0004    S                DLC:  3    86 99 4d                    Channel: can1
+Timestamp: 1575288146.187018    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.223004    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.223158        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.223370    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.243417    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.243543        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.243709        ID: 0004    S                DLC:  3    87 99 4e                    Channel: can1
+Timestamp: 1575288146.243910    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.276259    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.276395        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.276612    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.351742    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.352567        ID: 0002    S                DLC:  2    00 2f                       Channel: can1
+Timestamp: 1575288146.352697        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.352879        ID: 0004    S                DLC:  3    87 99 4e                    Channel: can1
+Timestamp: 1575288146.353063    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.375079    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.375221        ID: 0002    S                DLC:  2    00 2d                       Channel: can1
+Timestamp: 1575288146.375413        ID: 0004    S                DLC:  3    88 99 4f                    Channel: can1
+Timestamp: 1575288146.375596    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.421898    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.422043        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.422235        ID: 0004    S                DLC:  3    88 99 4f                    Channel: can1
+Timestamp: 1575288146.422417    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.507724    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.507862        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.508028        ID: 0004    S                DLC:  3    88 99 4f                    Channel: can1
+Timestamp: 1575288146.508210    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.540620    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.540763        ID: 0002    S                DLC:  2    00 29                       Channel: can1
+Timestamp: 1575288146.540967        ID: 0004    S                DLC:  3    88 99 55                    Channel: can1
+Timestamp: 1575288146.541150    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.573534    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.573693        ID: 0002    S                DLC:  2    00 26                       Channel: can1
+Timestamp: 1575288146.573829        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.573993        ID: 0004    S                DLC:  3    89 99 50                    Channel: can1
+Timestamp: 1575288146.574180    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.607453    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.607604        ID: 0002    S                DLC:  2    00 23                       Channel: can1
+Timestamp: 1575288146.607795        ID: 0004    S                DLC:  3    89 99 50                    Channel: can1
+Timestamp: 1575288146.607977    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.650533    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.650693        ID: 0002    S                DLC:  2    00 20                       Channel: can1
+Timestamp: 1575288146.650828        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.651041    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.684376    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.684507        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.684727    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.684910    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.717203    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.717325        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.717535    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.750349    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.750498        ID: 0002    S                DLC:  2    00 13                       Channel: can1
+Timestamp: 1575288146.750702        ID: 0004    S                DLC:  3    89 99 50                    Channel: can1
+Timestamp: 1575288146.750896    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.772064    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.772208        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.772374        ID: 0004    S                DLC:  3    89 99 50                    Channel: can1
+Timestamp: 1575288146.772556    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.808798    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.808960        ID: 0002    S                DLC:  2    00 0d                       Channel: can1
+Timestamp: 1575288146.809124        ID: 0004    S                DLC:  3    89 99 50                    Channel: can1
+Timestamp: 1575288146.809308    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.838742    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.839683        ID: 0002    S                DLC:  2    00 07                       Channel: can1
+Timestamp: 1575288146.839827        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288146.839999        ID: 0004    S                DLC:  3    89 99 50                    Channel: can1
+Timestamp: 1575288146.840183    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.897010    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.897937        ID: 0002    S                DLC:  2    00 03                       Channel: can1
+Timestamp: 1575288146.898132        ID: 0004    S                DLC:  3    88 99 4f                    Channel: can1
+Timestamp: 1575288146.898314    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.925858    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.926009        ID: 0002    S                DLC:  2    00 00                       Channel: can1
+Timestamp: 1575288146.926196        ID: 0004    S                DLC:  3    88 99 4f                    Channel: can1
+Timestamp: 1575288146.926384    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.962149    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288146.962917        ID: 0002    S                DLC:  2    03 00                       Channel: can1
+Timestamp: 1575288146.963118        ID: 0004    S                DLC:  3    88 99 4f                    Channel: can1
+Timestamp: 1575288146.963301    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288146.999569    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.000056        ID: 0002    S                DLC:  2    0a 00                       Channel: can1
+Timestamp: 1575288147.000365        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.000582        ID: 0004    S                DLC:  3    87 99 4e                    Channel: can1
+Timestamp: 1575288147.000765    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.028711    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.028875        ID: 0002    S                DLC:  2    13 00                       Channel: can1
+Timestamp: 1575288147.029012        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.029176        ID: 0004    S                DLC:  3    87 99 4e                    Channel: can1
+Timestamp: 1575288147.029362    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.054260    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.062186        ID: 0002    S                DLC:  2    1a 00                       Channel: can1
+Timestamp: 1575288147.062946        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.063109        ID: 0004    S                DLC:  3    87 99 4e                    Channel: can1
+Timestamp: 1575288147.063291    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.095712    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.096343        ID: 0002    S                DLC:  2    21 00                       Channel: can1
+Timestamp: 1575288147.096476        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.096644        ID: 0004    S                DLC:  3    86 99 4d                    Channel: can1
+Timestamp: 1575288147.096824    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.129476    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.130303        ID: 0002    S                DLC:  2    28 00                       Channel: can1
+Timestamp: 1575288147.130433        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.130684        ID: 0004    S                DLC:  3    84 99 4c                    Channel: can1
+Timestamp: 1575288147.130901    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.161801    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.162477        ID: 0002    S                DLC:  2    2d 00                       Channel: can1
+Timestamp: 1575288147.162611        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.162780        ID: 0004    S                DLC:  3    83 99 4b                    Channel: can1
+Timestamp: 1575288147.162963    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.186057    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.200892        ID: 0002    S                DLC:  2    31 00                       Channel: can1
+Timestamp: 1575288147.201016        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.201235    ID: 00000005    X                DLC:  1    4a                          'J'    Channel: can1
+Timestamp: 1575288147.201427    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.233643    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.233784        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.233961        ID: 0004    S                DLC:  3    80 99 47                    Channel: can1
+Timestamp: 1575288147.234142    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.266566    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.266935        ID: 0002    S                DLC:  2    37 00                       Channel: can1
+Timestamp: 1575288147.267067        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.267348        ID: 0004    S                DLC:  3    7d 99 45                    Channel: can1
+Timestamp: 1575288147.267531    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.294050    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.294174        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.294380    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.329510    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.329676        ID: 0002    S                DLC:  2    3d 00                       Channel: can1
+Timestamp: 1575288147.329810        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.329976        ID: 0004    S                DLC:  3    79 99 41                    Channel: can1
+Timestamp: 1575288147.330166    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.363005    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.363726        ID: 0002    S                DLC:  2    44 00                       Channel: can1
+Timestamp: 1575288147.363886        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.364054        ID: 0004    S                DLC:  3    77 99 3f                    Channel: can1
+Timestamp: 1575288147.364237    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.393570    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.394332        ID: 0002    S                DLC:  2    4e 00                       Channel: can1
+Timestamp: 1575288147.394478        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.394699    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.394883    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.424042    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.424183        ID: 0002    S                DLC:  2    53 00                       Channel: can1
+Timestamp: 1575288147.424834        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.424998        ID: 0004    S                DLC:  3    72 99 3b                    Channel: can1
+Timestamp: 1575288147.425180    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.456988    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.457112        ID: 0003    S                DLC:  1    06                          Channel: can1
+Timestamp: 1575288147.457324    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.497441    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.497603        ID: 0002    S                DLC:  2    53 00                       Channel: can1
+Timestamp: 1575288147.497739        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.497945        ID: 0004    S                DLC:  3    6c 99 39                    Channel: can1
+Timestamp: 1575288147.498130    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.521280    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.521407        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.521612    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.554151    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.554290        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.554498    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.609263    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.609406        ID: 0002    S                DLC:  2    4f 00                       Channel: can1
+Timestamp: 1575288147.609612        ID: 0004    S                DLC:  3    63 99 55                    Channel: can1
+Timestamp: 1575288147.609796    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.640156    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.640308        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.640486        ID: 0004    S                DLC:  3    61 99 39                    Channel: can1
+Timestamp: 1575288147.640670    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.666706    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.667562        ID: 0002    S                DLC:  2    4c 00                       Channel: can1
+Timestamp: 1575288147.667694        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.667863        ID: 0004    S                DLC:  3    60 99 39                    Channel: can1
+Timestamp: 1575288147.668047    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.694800    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.707876        ID: 0002    S                DLC:  2    4c 00                       Channel: can1
+Timestamp: 1575288147.708002        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.708169        ID: 0004    S                DLC:  3    5d 99 39                    Channel: can1
+Timestamp: 1575288147.708354    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.730749    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.730896        ID: 0002    S                DLC:  2    4c 00                       Channel: can1
+Timestamp: 1575288147.743944        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.744100        ID: 0004    S                DLC:  3    59 99 39                    Channel: can1
+Timestamp: 1575288147.744287    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.774803    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.775687        ID: 0002    S                DLC:  2    4c 00                       Channel: can1
+Timestamp: 1575288147.775821        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.776028    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.803269    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.803407        ID: 0002    S                DLC:  2    4c 00                       Channel: can1
+Timestamp: 1575288147.803896        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.804079        ID: 0004    S                DLC:  3    54 99 39                    Channel: can1
+Timestamp: 1575288147.804263    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.842592    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.842769        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.842934        ID: 0004    S                DLC:  3    50 99 39                    Channel: can1
+Timestamp: 1575288147.843116    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.875339    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.875485        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.875680        ID: 0004    S                DLC:  3    4e 99 39                    Channel: can1
+Timestamp: 1575288147.875863    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.900593    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.901486        ID: 0002    S                DLC:  2    40 00                       Channel: can1
+Timestamp: 1575288147.901637        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.901858    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.939314    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.940114        ID: 0002    S                DLC:  2    39 00                       Channel: can1
+Timestamp: 1575288147.940315        ID: 0004    S                DLC:  3    49 99 39                    Channel: can1
+Timestamp: 1575288147.940499    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288147.963121    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288147.963273        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288147.963482    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.005360    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.006275        ID: 0002    S                DLC:  2    28 00                       Channel: can1
+Timestamp: 1575288148.006464        ID: 0004    S                DLC:  3    43 99 20                    Channel: can1
+Timestamp: 1575288148.006647    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.031056    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.031175        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.031341        ID: 0004    S                DLC:  3    42 99 1e                    Channel: can1
+Timestamp: 1575288148.031590    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.074781    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.074949        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.075184    ID: 193f0005    X                DLC:  3    1a 55 00                    Channel: can1
+Timestamp: 1575288148.075369    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.115587    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.117405        ID: 0002    S                DLC:  2    10 00                       Channel: can1
+Timestamp: 1575288148.117636        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.117804        ID: 0004    S                DLC:  3    3c 99 17                    Channel: can1
+Timestamp: 1575288148.117987    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.149654    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.150169        ID: 0002    S                DLC:  2    06 00                       Channel: can1
+Timestamp: 1575288148.150436        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.150683        ID: 0004    S                DLC:  3    3a 99 14                    Channel: can1
+Timestamp: 1575288148.150917    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.184566    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.184707        ID: 0002    S                DLC:  2    01 00                       Channel: can1
+Timestamp: 1575288148.184844        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.185065    ID: 00000005    X                DLC:  1    12                          Channel: can1
+Timestamp: 1575288148.185254    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.218492    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.218655        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.218844        ID: 0004    S                DLC:  3    35 99 0f                    Channel: can1
+Timestamp: 1575288148.219026    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.251276    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.252127        ID: 0002    S                DLC:  2    00 08                       Channel: can1
+Timestamp: 1575288148.252257        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.252424        ID: 0004    S                DLC:  3    33 99 0d                    Channel: can1
+Timestamp: 1575288148.252608    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.277914    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.278903        ID: 0002    S                DLC:  2    00 0a                       Channel: can1
+Timestamp: 1575288148.279093        ID: 0004    S                DLC:  3    05 55 55                    Channel: can1
+Timestamp: 1575288148.279277    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.309762    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.309912        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.310127    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.345975    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.346111        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.346274        ID: 0004    S                DLC:  3    31 99 0a                    Channel: can1
+Timestamp: 1575288148.346456    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.380568    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.381374        ID: 0002    S                DLC:  2    00 13                       Channel: can1
+Timestamp: 1575288148.381507        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.381802        ID: 0004    S                DLC:  3    30 99 0a                    Channel: can1
+Timestamp: 1575288148.381985    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.408977    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.409146        ID: 0002    S                DLC:  2    00 15                       Channel: can1
+Timestamp: 1575288148.409311        ID: 0004    S                DLC:  3    30 99 09                    Channel: can1
+Timestamp: 1575288148.409494    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.437830    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.437977        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.438159    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.487995    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.488160        ID: 0002    S                DLC:  2    00 17                       Channel: can1
+Timestamp: 1575288148.488295        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.488461        ID: 0004    S                DLC:  3    2f 99 09                    Channel: can1
+Timestamp: 1575288148.488647    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.508088    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.508238        ID: 0002    S                DLC:  2    00 1a                       Channel: can1
+Timestamp: 1575288148.508375        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.508731        ID: 0004    S                DLC:  3    2f 99 08                    Channel: can1
+Timestamp: 1575288148.508914    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.541041    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.541192        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.541411    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.541595    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.607431    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.607572        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.607738        ID: 0004    S                DLC:  3    2e 99 08                    Channel: can1
+Timestamp: 1575288148.607920    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.655088    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.655239        ID: 0002    S                DLC:  2    00 1e                       Channel: can1
+Timestamp: 1575288148.655445        ID: 0004    S                DLC:  3    2e 99 08                    Channel: can1
+Timestamp: 1575288148.655623    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.687165    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.687314        ID: 0002    S                DLC:  2    00 21                       Channel: can1
+Timestamp: 1575288148.687511        ID: 0004    S                DLC:  3    2e 99 08                    Channel: can1
+Timestamp: 1575288148.687695    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.717963    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.718102        ID: 0002    S                DLC:  2    00 24                       Channel: can1
+Timestamp: 1575288148.718290        ID: 0004    S                DLC:  3    2e 99 08                    Channel: can1
+Timestamp: 1575288148.718474    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.747312    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.747460        ID: 0002    S                DLC:  2    00 25                       Channel: can1
+Timestamp: 1575288148.747596        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.747804    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.780460    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.781545        ID: 0002    S                DLC:  2    00 26                       Channel: can1
+Timestamp: 1575288148.781725        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.781905        ID: 0004    S                DLC:  3    2e 99 08                    Channel: can1
+Timestamp: 1575288148.782089    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.812211    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.812361        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.812543        ID: 0004    S                DLC:  3    2e 99 08                    Channel: can1
+Timestamp: 1575288148.812727    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.880422    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.880577        ID: 0002    S                DLC:  2    00 29                       Channel: can1
+Timestamp: 1575288148.880783        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.880975        ID: 0004    S                DLC:  3    2f 99 08                    Channel: can1
+Timestamp: 1575288148.881158    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288148.984473    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288148.984634        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288148.984806        ID: 0004    S                DLC:  3    2f 99 09                    Channel: can1
+Timestamp: 1575288148.984990    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.072180    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.072320        ID: 0002    S                DLC:  2    00 2a                       Channel: can1
+Timestamp: 1575288149.072455        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.072676    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.072860    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.105162    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.105308        ID: 0002    S                DLC:  2    00 2c                       Channel: can1
+Timestamp: 1575288149.105506        ID: 0004    S                DLC:  3    30 99 0a                    Channel: can1
+Timestamp: 1575288149.105690    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.140032    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.140218        ID: 0002    S                DLC:  2    00 2e                       Channel: can1
+Timestamp: 1575288149.140351        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.140535        ID: 0004    S                DLC:  3    30 99 0a                    Channel: can1
+Timestamp: 1575288149.140758    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.171824    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.171974        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.172176        ID: 0004    S                DLC:  3    30 99 0a                    Channel: can1
+Timestamp: 1575288149.172359    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.205022    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.205924        ID: 0002    S                DLC:  2    00 2f                       Channel: can1
+Timestamp: 1575288149.206049        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.206238    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.247798    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.247946        ID: 0002    S                DLC:  2    00 30                       Channel: can1
+Timestamp: 1575288149.248212        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.248460        ID: 0004    S                DLC:  3    31 99 0b                    Channel: can1
+Timestamp: 1575288149.248773    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.280522    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.280666        ID: 0002    S                DLC:  2    00 31                       Channel: can1
+Timestamp: 1575288149.280798        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.280966        ID: 0004    S                DLC:  3    31 99 0b                    Channel: can1
+Timestamp: 1575288149.281147    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.324692    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.333674        ID: 0002    S                DLC:  2    00 32                       Channel: can1
+Timestamp: 1575288149.333800        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.333964        ID: 0004    S                DLC:  3    32 99 0c                    Channel: can1
+Timestamp: 1575288149.334145    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.365514    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.365710        ID: 0002    S                DLC:  2    00 33                       Channel: can1
+Timestamp: 1575288149.365930        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.366194        ID: 0004    S                DLC:  3    32 99 0c                    Channel: can1
+Timestamp: 1575288149.366490    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.389567    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.389719        ID: 0002    S                DLC:  2    00 34                       Channel: can1
+Timestamp: 1575288149.389885        ID: 0004    S                DLC:  3    33 99 0d                    Channel: can1
+Timestamp: 1575288149.390070    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.466103    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.466248        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288149.466393        ID: 0003    S                DLC:  1    05                          Channel: can1
+Timestamp: 1575288149.466558        ID: 0004    S                DLC:  3    34 99 0e                    Channel: can1
+Timestamp: 1575288149.466742    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.508409    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.515493    ID: 00000001    X                DLC:  1    80                          Channel: can1
+Timestamp: 1575288149.516372        ID: 0002    S                DLC:  2    00 37                       Channel: can1
+Timestamp: 1575288149.516500        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.516695        ID: 0004    S                DLC:  3    34 99 0e                    Channel: can1
+Timestamp: 1575288149.516883    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.518710    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.526890        ID: 0001    S                DLC:  1    7e                          Channel: can1
+Timestamp: 1575288149.527039        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.527243        ID: 0004    S                DLC:  3    34 99 0e                    Channel: can1
+Timestamp: 1575288149.527427    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.528727    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.540082    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.552980    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.564034    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.575308    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.586284    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.596470    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.608568    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.613156    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.619816    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.631245    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.641767    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.650367    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.659160    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.660294        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.660486        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.660678        ID: 0004    S                DLC:  3    33 99 0e                    Channel: can1
+Timestamp: 1575288149.660870    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.661035    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.677833    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.688449    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.701601    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.707136    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.711441    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.722191    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.732008    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.736266    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.736452        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.736613        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.736833        ID: 0004    S                DLC:  3    32 99 0e                    Channel: can1
+Timestamp: 1575288149.737018    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.745534    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.756732    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.767256    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.780563    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.786012    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.795689    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.799823    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.800946        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.801179        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.801487        ID: 0004    S                DLC:  3    31 99 0e                    Channel: can1
+Timestamp: 1575288149.801695    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.803468    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.813614    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.823216    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.833538    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.837727    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.837942        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.838460        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.839685        ID: 0004    S                DLC:  3    30 99 0e                    Channel: can1
+Timestamp: 1575288149.839974    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.844336    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.854200    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.864376    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.867050    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.867203        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.867340        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.867506        ID: 0004    S                DLC:  3    2f 99 0e                    Channel: can1
+Timestamp: 1575288149.867759    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.875965    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.889863    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.893067    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.903008        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288149.903289        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.903452        ID: 0004    S                DLC:  3    2e 99 0e                    Channel: can1
+Timestamp: 1575288149.903689    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.905574    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.911125    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.922637    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.922827    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.922944        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288149.923175    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288149.934412    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.944378    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.953622    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.964777    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.976352    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.985593    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288149.993777    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.001422    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.001810        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288150.002017        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288150.002241        ID: 0004    S                DLC:  3    2a 99 0e                    Channel: can1
+Timestamp: 1575288150.002475    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.004776    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.014536    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.034187        ID: 0001    S                DLC:  1    7d                          Channel: can1
+Timestamp: 1575288150.034641        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288150.034895        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.035064        ID: 0004    S                DLC:  3    27 99 12                    Channel: can1
+Timestamp: 1575288150.035245    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.055208    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.055331        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.055536    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.089242    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.089386        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288150.089521        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.089701        ID: 0004    S                DLC:  3    25 99 0e                    Channel: can1
+Timestamp: 1575288150.089887    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.129077    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.129970        ID: 0002    S                DLC:  2    00 38                       Channel: can1
+Timestamp: 1575288150.130102        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.130273        ID: 0004    S                DLC:  3    24 99 0d                    Channel: can1
+Timestamp: 1575288150.130457    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.153968    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.154136        ID: 0002    S                DLC:  2    00 37                       Channel: can1
+Timestamp: 1575288150.154783        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.154950        ID: 0004    S                DLC:  3    24 99 0c                    Channel: can1
+Timestamp: 1575288150.155134    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.198990    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.200671        ID: 0002    S                DLC:  2    00 36                       Channel: can1
+Timestamp: 1575288150.201206        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.201394        ID: 0004    S                DLC:  3    23 99 0a                    Channel: can1
+Timestamp: 1575288150.201572    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.219918    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.220044        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.220240    ID: 19230005    X                DLC:  1    0a                          Channel: can1
+Timestamp: 1575288150.220424    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.253825    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.253997        ID: 0002    S                DLC:  2    00 35                       Channel: can1
+Timestamp: 1575288150.254130        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.254298        ID: 0004    S                DLC:  3    22 99 0a                    Channel: can1
+Timestamp: 1575288150.254482    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.294981    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.295920        ID: 0002    S                DLC:  2    00 33                       Channel: can1
+Timestamp: 1575288150.296052        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.296275    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.329979    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.330666        ID: 0002    S                DLC:  2    00 2b                       Channel: can1
+Timestamp: 1575288150.330808        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.331063        ID: 0004    S                DLC:  3    23 99 0a                    Channel: can1
+Timestamp: 1575288150.331249    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.354412    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.354559        ID: 0002    S                DLC:  2    00 1a                       Channel: can1
+Timestamp: 1575288150.354694        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.354859        ID: 0004    S                DLC:  3    23 99 0a                    Channel: can1
+Timestamp: 1575288150.355044    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.396700    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.397546        ID: 0002    S                DLC:  2    00 0d                       Channel: can1
+Timestamp: 1575288150.397798        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.398014        ID: 0004    S                DLC:  3    23 99 0b                    Channel: can1
+Timestamp: 1575288150.398197    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.418530    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.431775        ID: 0002    S                DLC:  2    00 00                       Channel: can1
+Timestamp: 1575288150.431899        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.432110    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.497693    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.497857        ID: 0002    S                DLC:  2    03 00                       Channel: can1
+Timestamp: 1575288150.497990        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.498358        ID: 0004    S                DLC:  3    24 99 0c                    Channel: can1
+Timestamp: 1575288150.498611    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.522268    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.522437        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.522669    ID: 19240004    X                DLC:  3    0c 55 00                    Channel: can1
+Timestamp: 1575288150.522853    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.565026    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.565175        ID: 0002    S                DLC:  2    7c 00                       Channel: can1
+Timestamp: 1575288150.565513        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.566108        ID: 0004    S                DLC:  3    24 99 0c                    Channel: can1
+Timestamp: 1575288150.566457    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.587794    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.587922        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.588086        ID: 0004    S                DLC:  3    23 99 0b                    Channel: can1
+Timestamp: 1575288150.588270    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.633705    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.633865        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288150.634051        ID: 0004    S                DLC:  3    23 99 0a                    Channel: can1
+Timestamp: 1575288150.634234    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.653608    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.653744        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.653959    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.687810    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.687956        ID: 0002    S                DLC:  2    79 00                       Channel: can1
+Timestamp: 1575288150.688092        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.688265        ID: 0004    S                DLC:  3    21 99 08                    Channel: can1
+Timestamp: 1575288150.688450    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.729518    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.729679        ID: 0002    S                DLC:  2    7d 00                       Channel: can1
+Timestamp: 1575288150.729815        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.730026    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.754301    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.754449        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288150.754653        ID: 0004    S                DLC:  3    1d 99 55                    Channel: can1
+Timestamp: 1575288150.754837    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.800586    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.800751        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.800970    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.852324    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.852478        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.852644        ID: 0004    S                DLC:  3    19 99 00                    Channel: can1
+Timestamp: 1575288150.852828    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.885115    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.885257        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.885471    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.917944    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.918095        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.918262        ID: 0004    S                DLC:  3    14 99 00                    Channel: can1
+Timestamp: 1575288150.918445    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.953955    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.954083        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.954298    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288150.985119    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288150.985284        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288150.985449        ID: 0004    S                DLC:  3    10 99 00                    Channel: can1
+Timestamp: 1575288150.985668    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.019639    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.019784        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288151.019919        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288151.020107        ID: 0004    S                DLC:  3    0d 99 00                    Channel: can1
+Timestamp: 1575288151.020316    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.085116    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.085322        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288151.085527        ID: 0004    S                DLC:  3    0c 99 00                    Channel: can1
+Timestamp: 1575288151.085708    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.119137    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.119285        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288151.119474        ID: 0004    S                DLC:  3    09 99 00                    Channel: can1
+Timestamp: 1575288151.119657    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.193740    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.193865        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288151.194078    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.229305    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.229457        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288151.230208        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288151.230443        ID: 0004    S                DLC:  3    03 99 00                    Channel: can1
+Timestamp: 1575288151.230626    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.295541    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.296325        ID: 0002    S                DLC:  2    80 00                       Channel: can1
+Timestamp: 1575288151.296455        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288151.296673        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.296847    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.440199    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.440333        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288151.440543    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.459189    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.459339        ID: 0003    S                DLC:  1    04                          Channel: can1
+Timestamp: 1575288151.459514        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.459697    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.525023    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.525177        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.525347        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.525530    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.557936    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.558084        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.558256        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.558438    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.591679    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.591845        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.592016        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.592198    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.624503    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.624647        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.624822        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.625004    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.790109    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.790281        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.790501    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.790683    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.823240    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.823377        ID: 0002    S                DLC:  2    69 00                       Channel: can1
+Timestamp: 1575288151.823575        ID: 0004    S                DLC:  3    01 55 55                    Channel: can1
+Timestamp: 1575288151.823757    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.855931    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.856055        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.856260    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.889249    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.889390        ID: 0002    S                DLC:  2    59 00                       Channel: can1
+Timestamp: 1575288151.889526        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.889697        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.889884    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.921755    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.921887        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.922062        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.922245    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288151.965710    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288151.965864        ID: 0002    S                DLC:  2    3e 00                       Channel: can1
+Timestamp: 1575288151.965999        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288151.966223        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288151.966901    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288152.000021    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288152.000257        ID: 0002    S                DLC:  2    25 00                       Channel: can1
+Timestamp: 1575288152.000388        ID: 0003    S                DLC:  1    01                          Channel: can1
+Timestamp: 1575288152.000572        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288152.000758    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288152.028549    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288152.028702        ID: 0002    S                DLC:  2    13 00                       Channel: can1
+Timestamp: 1575288152.028911        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288152.029093    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288152.064853    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288152.064997        ID: 0002    S                DLC:  2    07 00                       Channel: can1
+Timestamp: 1575288152.066272        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288152.066653        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288152.067326    ID: 00000005    X                DLC:  1    00                          Channel: can1
+Timestamp: 1575288152.088770    ID: 00000001    X                DLC:  1    ff                          Channel: can1
+Timestamp: 1575288152.088962        ID: 0002    S                DLC:  2    00 00                       Channel: can1
+Timestamp: 1575288152.089114        ID: 0003    S                DLC:  1    03                          Channel: can1
+Timestamp: 1575288152.089296        ID: 0004    S                DLC:  3    00 99 00                    Channel: can1
+Timestamp: 1575288152.089481    ID: 00000005    X                DLC:  1    00                          Channel: can1
